@@ -1,0 +1,12 @@
+{
+  "name": "HeadyAPI",
+  "tagline": "Unified API Gateway",
+  "description": "The unified API layer for all Heady services — rate limiting, authentication, and intelligent routing.",
+  "accent": "#22d3ee",
+  "features": [
+    {"icon": "🚀", "title": "Intelligent Routing", "desc": "Smart request routing across 9 domains"},
+    {"icon": "🔒", "title": "Authentication", "desc": "JWT + API key auth with tiered access"},
+    {"icon": "⚡", "title": "Rate Limiting", "desc": "Configurable rate limits per endpoint"},
+    {"icon": "📊", "title": "Analytics", "desc": "Real-time API usage dashboards"}
+  ]
+}
